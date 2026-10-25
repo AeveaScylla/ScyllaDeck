@@ -3,6 +3,11 @@
 Android app to manage your **Stremio add-on list**: reorder, switch off, install, configure and discover add-ons.
 *Unofficial. Not affiliated with or endorsed by Stremio.*
 
+<p align="center">
+  <img src="Screenshot_20261025-224908.png" alt="ScyllaDeck app screenshot 1" width="300" />
+  <img src="Screenshot_20261025-224930.png" alt="ScyllaDeck app screenshot 2" width="300" />
+</p>
+
 ## Features
 - Grid of add-on cards (1, 2 or 3 columns) with a priority number on each card
 - Reorder by drag and drop, or tap a card and use the arrow keys (one spot, one row, top, bottom, exact position)
